@@ -1,0 +1,58 @@
+.title {
+  color: white;
+}
+
+body{
+  background-image: url(haikei.jpg);
+  
+}
+
+body h2{
+  color: azure;
+}
+
+.name{
+ width: 4%;
+ height: 4%;
+ border-radius: 20%;
+ cursor: pointer;
+}
+
+.base{
+  width: 70%;
+  font-size: 70;
+  background-color: white;
+  
+}
+
+
+.sns {
+  font-size: 70;
+  background-color: white;
+  text-decoration: none;
+}
+
+.inquiry{
+  font-size: 70;
+  background-color: white;
+}
+
+.address{
+  background-color: rgb(243, 243, 239);
+  
+}
+
+.gyo{
+  width:50%;
+  height: 100;
+  border-radius: 20%;
+  cursor: pointer;
+ }
+
+ .top{
+   color: azure;
+ }
+
+footer{
+  color: aliceblue;
+}
